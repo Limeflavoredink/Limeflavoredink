@@ -1,0 +1,50 @@
+<!DOCTYPE html> 
+<html>
+  <head>
+    <link rel="stylesheet" href="new-2.css">
+  </head>
+  <body>
+   <center>
+     <h1> commisions prices </h1>
+     <h2> Commisions open</h2>
+      <hr>
+      <h3> fullbody </h3>
+     <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/54195830_zCu0FzmkkxAvwHq.png"alt="CODE" width="500" height="600">
+      <h3> $20 unshaded, $30-$40 shaded </h3>
+    <hr>
+      <h3> scene </h3>
+     <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/54217109_xU3PyT52L7jK6bY.jpg"alt="CODE" width="500" height="600">
+      <h3> $50-$60 + $10 if complex </h3>
+    <hr>
+      <h3> reference sheets </h3>
+     <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/54217035_D5Tv8322spcbmeK.png"alt="CODE" width="500" height="600">
+      <h3> $40-$50 +$5 for extra headshots, +$10 for extra full bodies </h3>
+    <hr>
+      <h3> chibis </h3>
+     <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/54217052_YCLWaaj0H2fTBfv.png"alt="CODE" width="500" height="600">
+      <h3> $10 unshaded, $15-20 shaded </h3>
+    <hr>
+      <h3> icons/headshots </h3>
+     <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/54217075_ff7u4S2h1TYUMaF.png"alt="CODE" width="500" height="600">
+      <h3> $10 unshaded, $15-$20 shaded </h3>
+    <hr>
+     <h3> Customs </h3>
+     <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/54217281_dFjr4qL5DIqK9SA.jpg" alt= "CODE" width="500" height="600">
+     <h3> $30 fullbody, $50 reference sheet </h3>
+    <hr> 
+      <h3> fursuit mini partial </h3>
+     <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/54217480_CbFx6OaT0jTWDPy.jpg"alt="CODE" width="500" height="600">
+     <h3> price of fabric and foam if needed + $250+ </h3>
+     <h3> add ons:</h3> 
+       <ul> 
+         <li> removable eyelids </li>
+         <li> removable tongue </li>
+         <li>pickable nose </li>
+         <li> claws  </li>
+         <li> wings </li>
+         <li> horns </li>
+        </ul>
+      
+    </center>
+  </body>
+</html>
